@@ -16,7 +16,7 @@ Este es un proyecto de prueba construido con React y TypeScript, que utiliza Yup
 Cloná el repositorio y luego instalá las dependencias:
 
 
-git clone https://github.com/tu-usuario/nombre-del-repo.git
+git clone https://github.com/ThomasMunoz27/Proyecto-probando-Yup-UTN.git
 
 
 cd nombre-del-repo
