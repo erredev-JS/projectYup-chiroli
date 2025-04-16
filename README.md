@@ -1,7 +1,7 @@
-#🧪 Proyecto de Prueba con Yup, SweetAlert2, React y TypeScript
+# 🧪 Proyecto de Prueba con Yup, SweetAlert2, React y TypeScript
 Este es un proyecto de prueba construido con React y TypeScript, que utiliza Yup para validaciones de formularios y SweetAlert2 para mostrar alertas visuales de forma elegante.
 
-##🚀 Tecnologías utilizadas
+## 🚀 Tecnologías utilizadas
 ⚛️ React
 
 💬 TypeScript
@@ -12,11 +12,17 @@ Este es un proyecto de prueba construido con React y TypeScript, que utiliza Yup
 
 🎯 Vite
 
-##📦 Instalación
+## 📦 Instalación
 Cloná el repositorio y luego instalá las dependencias:
+
+
 git clone https://github.com/tu-usuario/nombre-del-repo.git
+
+
 cd nombre-del-repo
+
+
 npm install
 
-##⚡ Iniciar la aplicacion
+## ⚡ Iniciar la aplicacion
 npm run dev
