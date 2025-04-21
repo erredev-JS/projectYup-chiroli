@@ -1,4 +1,4 @@
-# 🧪 Proyecto de Prueba con Yup, SweetAlert2, React y TypeScript
+# 🧪 Proyecto con Yup, SweetAlert2, React y TypeScript
 Este es un proyecto de prueba construido con React y TypeScript, que utiliza Yup para validaciones de formularios y SweetAlert2 para mostrar alertas visuales de forma elegante.
 
 ## 🚀 Tecnologías utilizadas
@@ -16,10 +16,10 @@ Este es un proyecto de prueba construido con React y TypeScript, que utiliza Yup
 Cloná el repositorio y luego instalá las dependencias:
 
 
-git clone https://github.com/ThomasMunoz27/Proyecto-probando-Yup-UTN.git
+git clone https://github.com/erredev-JS/projectYup-chiroli.git
 
 
-cd nombre-del-repo
+cd projectYup-chiroli
 
 
 npm install
